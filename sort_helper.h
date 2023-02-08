@@ -7,7 +7,7 @@
 // Input: The 'address of' an index into an array for positions in an array.
 void swap(int *a, int *b)
 {
-    // TODO: Swap two integers in an array.
+    int
 }
 
 // Input: A pointer to an array (i.e. the array itself points to the first index)
